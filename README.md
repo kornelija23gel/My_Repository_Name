@@ -1,1 +1,1 @@
-# My_Repository_Name
+# MyRepositoryName
